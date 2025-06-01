@@ -9,5 +9,5 @@ public class ReviewQueryResponseDto {
     private Long reviewId;
     private int rating;
     private String content;
-    private String user;  // 예: "user1@example.com"
+    private String user;
 }
